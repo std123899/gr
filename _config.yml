@@ -16,7 +16,7 @@ title_separator          : "-"
 name                     : "mibook"
 description              : "Making Interactivity Greek Book."
 #url                      : "https://mibook.github.io"
-url                      : "https://std123899.github.io/mibookgr/"
+url                      : "https://std123899.github.io/"
 #baseurl                  : "/gr"
 baseurl                  : "/"
 #repository               : "mibook/gr" mibookgr
