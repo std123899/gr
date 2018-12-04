@@ -18,6 +18,7 @@ description              : "Making Interactivity Greek Book."
 #url                      : "https://mibook.github.io"
 url                      : "https://std123899.github.io/mibookgr/"
 baseurl                  : "/gr"
+baseurl                  : "/mibookgr"
 #repository               : "mibook/gr" mibookgr
 repository               : "mibookgr"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
