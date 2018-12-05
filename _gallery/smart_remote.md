@@ -1,6 +1,6 @@
 ---
 author: std123899
-image_url: /images/smart_remote.jpg
+image_url: /images/smart_remote.png
 caption: Το smart remote επιτρέπει στο χρήστη να κάνει click, να δείχνει στην οθόνη, να πληκτορολογεί χαρακτήρες, να κάνει scroll και να χρησιμοποιεί φωνητικές εντολες. Συνεργάζεται με το λέιτουργικό σύστημα της τηλεόρασης και επιτρέπει τη λειτουργία του μενούμ των εφαρμογών και του browser της τηλεόρασης απομακρυσμένα.
 title: smart-remote
 categories:
