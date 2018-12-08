@@ -1,8 +1,8 @@
 ---
 author: epidrome
-title: "Alan Kay2"
+title: "Alan Kay"
 image_url: /images/alan-kay.jpg
-caption: "O Alan Kay 2 οραματίστηκε το Dynabook και δημιούργησε λογισμικό που διευκολύνει τα παιδιά να μάθουν να σκέφτονται μαζί με τους υπολογιστές"
+caption: "O Alan Kay οραματίστηκε το Dynabook και δημιούργησε λογισμικό που διευκολύνει τα παιδιά να μάθουν να σκέφτονται μαζί με τους υπολογιστές"
 categories:
   - biography
   - definition
@@ -22,8 +22,8 @@ gallery:
     caption: 'Η αντικειμενοστραφής γλώσσα προγραμματισμού Smalltalk είχε έμφαση σε οντότητες υψηλού επιπέδου και στην διάδραση με τον χρήστη και έτσι διευκόλυνε την κατασκευή και τις δοκιμές του λογισμικού που τελικά οδήγησε στους πρώτους επιτυχημένους εμπορικά επιτραπέζιους υπολογιστές'
 ---
 
-#{% include_relative bio-kay.md %}
-{% include_relative bio-starner.md %}
+{% include_relative bio-kay.md %}
+
 
 
 
