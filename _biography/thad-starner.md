@@ -1,7 +1,7 @@
 ---
 author: std123899
 title: "Thad Starner"
-image_url: /images/Thad-Starner.jpg
+image_url: /images/thad-starner.jpg
 caption: "O Alan Kay οραματίστηκε το Dynabook και δημιούργησε λογισμικό που διευκολύνει τα παιδιά να μάθουν να σκέφτονται μαζί με τους υπολογιστές"
 categories:
   - biography
