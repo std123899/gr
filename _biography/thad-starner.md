@@ -16,6 +16,10 @@ tags:
 gallery:
   - image_url: /images/thad-starner.jpg
     caption: "Alan Kay in front of a Xerox Alto and a piano"
+  - image_url: /images/translator.png
+    caption: "Alan Kay in front of a Xerox Alto and a piano"
+  - image_url: /images/asl-game.png
+    caption: "Alan Kay in front of a Xerox Alto and a piano"
 ---
 
 {% include_relative bio-starner.md %}
