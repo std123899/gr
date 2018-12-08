@@ -20,4 +20,4 @@ gallery:
 
 {% include_relative bio-starner.md %}
 
-{% include slides.html caption="Εικόνες για την βιογραφία του Αλαν Κεη" %
+{% include slides.html caption="Εικόνες για την βιογραφία του Αλαν Κεη" %}
