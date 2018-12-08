@@ -7,12 +7,9 @@ categories:
   - biography
   - definition
 tags:
-  - Alan Kay
-  - Ivan Sutherland
-  - Bret Victor
-  - Dynabook
-  - Smalltalk
-  - Xerox Alto
+  - Thad Starner
+  - ASL Translator
+  - CopyCat ASL Game
 gallery:
   - image_url: /images/thad-starner.jpg
     caption: "Alan Kay in front of a Xerox Alto and a piano"
