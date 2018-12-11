@@ -2,7 +2,7 @@
 author: std123899
 title: "Thad Starner"
 image_url: /images/thad-starner.jpg
-caption: "O Thad Starner οραματίστηκε το Dynabook και δημιούργησε λογισμικό που διευκολύνει τα παιδιά να μάθουν να σκέφτονται μαζί με τους υπολογιστές"
+caption: "O Thad Starner είναι πρωτοπόρος στα wearables καθώς και ισχυρός υποστηρικτής συστημάτων συνεχούς πρόσβασης και καθημερινής χρήσης"
 categories:
   - biography
   - definition
@@ -12,11 +12,11 @@ tags:
   - CopyCat ASL Game
 gallery:
   - image_url: /images/thad-starner.jpg
-    caption: "Alan Kay in front of a Xerox Alto and a piano"
+    caption: "Thad Starner"
   - image_url: /images/translator.png
-    caption: "Alan Kay in front of a Xerox Alto and a piano"
+    caption: "Telesign ASL Translator"
   - image_url: /images/asl-game.png
-    caption: "Alan Kay in front of a Xerox Alto and a piano"
+    caption: "CopyCat ASL Game"
 ---
 
 {% include_relative bio-starner.md %}
